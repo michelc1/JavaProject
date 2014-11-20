@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/michelc1/Downloads/jai_imageio-1_1-lib-windows-i586-jar/jai_imageio_windows-i586.jar"/>
+	<classpathentry kind="lib" path="lib/Fontastic/Fontastic/library/doubletype.jar"/>
+	<classpathentry kind="lib" path="lib/Fontastic/Fontastic/library/Fontastic.jar"/>
+	<classpathentry kind="lib" path="lib/Fontastic/Fontastic/library/sfntly.jar"/>
+	<classpathentry kind="lib" path="lib/processing-2.2.1/processing-2.2.1/core/library/core.jar"/>
+	<classpathentry kind="lib" path="lib/processing-2.2.1/processing-2.2.1/core/library/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-2.2.1/processing-2.2.1/core/library/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/processing-2.2.1/processing-2.2.1/core/library/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="lib/processing-2.2.1/processing-2.2.1/core/library/jogl-all.jar"/>
+	<classpathentry kind="lib" path="lib/geomerative/library/batikfont.jar"/>
+	<classpathentry kind="lib" path="lib/geomerative/library/geomerative.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
